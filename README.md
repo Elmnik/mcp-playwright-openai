@@ -1,9 +1,9 @@
 
-📝 Project Overview
+ MCP Playwright + OpenAI Integration 
 
-- This project combines a custom MCP (Microservice Control Protocol) server with OpenAI API integration, built with TypeScript and tested using Playwright. It provides a simple solution for a test who ask for an AI Assistant like ChatGpt
+- This project combines a custom MCP (Microservice Control Protocol) server with OpenAI integration, built with TypeScript and tested using Playwright. It provides a simple solution for a test who ask for an AI Assistant like ChatGpt
 
-- We wanted to use claude, but is not completely working for our purposes.
+- We wanted to use claude, but is not completely working for our purposes, and openAI is not free.So we move on with Ollama and their lightest Model.
 
 🚀 Features
 
